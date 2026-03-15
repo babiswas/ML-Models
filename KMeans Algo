@@ -10,4 +10,5 @@ As the dimensions of a dataset increase its difficult to plot data and cluster t
 4.Move centroids
 
 5.Finish(when the centroids aren't moving).
+Follow  3,4,5 till the centroinds not moving
 
