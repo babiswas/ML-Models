@@ -12,3 +12,6 @@ As the dimensions of a dataset increase its difficult to plot data and cluster t
 5.Finish(when the centroids aren't moving).
 Follow  3,4,5 till the centroinds not moving
 
+How to decide the number of centroids?
+Elbow method is used to decide the number of cluster.
+
