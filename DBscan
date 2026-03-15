@@ -28,3 +28,14 @@ Density connected points belong to the same cluster.
 
 
 
+Algorithm
+=========
+1.Identify core point,border point,noise point 
+2.For all unclustered core point
+   1.Create a new cluster
+   2.Add all points that are unclustered and desnsity connected to the current point into this cluster
+3.For all the unclustered and border point assign it to the cluster of nearest core.
+4.Leave all the noise point as it is.
+
+
+
