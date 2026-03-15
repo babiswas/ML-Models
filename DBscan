@@ -3,3 +3,8 @@ DBScan
 Desnity based spatial clustering of applications with noise.
 
 Make clusters based on density.
+
+epsilon distance
+minimum points
+
+
