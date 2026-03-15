@@ -23,6 +23,7 @@ A point which is neither border points or core point is called noise point.
 
 Density connected points
 ========================
+if two points are connected to each other through core points and any two core points are at distance <= epsilon
 
 
 
