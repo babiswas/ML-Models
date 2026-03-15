@@ -16,4 +16,7 @@ type of points
 2.core points
 3.noise points
 
+A core point is a point whose epsilon neighbourhood has more points than min points.
+A border point is a point whose epsilon neighbourhood has at least one core point but less points than min points.
+
 
