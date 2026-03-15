@@ -15,8 +15,14 @@ type of points
 1.border points
 2.core points
 3.noise points
+4.density connected points
 
 A core point is a point whose epsilon neighbourhood has more points than min points.
 A border point is a point whose epsilon neighbourhood has at least one core point but less points than min points.
+A point which is neither border points or core point is called noise point.
+
+Density connected points
+========================
+
 
 
