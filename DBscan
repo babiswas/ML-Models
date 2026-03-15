@@ -10,4 +10,10 @@ minimum points
 sparse
 dense
 
+type of points
+==============
+1.border points
+2.core points
+3.noise points
+
 
