@@ -1,1 +1,13 @@
+KMeans Algorithm
+=====================
+As the dimensions of a dataset increase its difficult to plot data and cluster them.
+
+1.Decide n clusters
+2.Init Centroids
+
+
+3.Assign cluster
+4.Move centroids
+
+5.Finish(when the centroids aren't moving).
 
