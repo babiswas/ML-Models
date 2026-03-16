@@ -3,3 +3,11 @@ Type of Scaling
 1.Standard scaler
 2.Normalization
 3.Robust Scaling
+
+Questions
+=========
+Q.Is feature scaling required?
+if required
+1.Standardisation
+2.Normalisation(Minmax scaler)
+
