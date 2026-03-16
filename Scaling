@@ -11,3 +11,5 @@ if required
 1.Standardisation
 2.Normalisation(Minmax scaler)
 
+if the numerical column lies between max and min values use min max scaler.
+
