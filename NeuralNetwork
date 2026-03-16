@@ -1,0 +1,14 @@
+A simple neural network
+=========================
+
+y=w1f(w2x2+b)+w3f(w4x1+b)+b'
+
+        b
+        |
+x1------w4-----f-----w1------
+                              S------------y         
+x2-------w2----f------w2------
+         |
+         b
+
+The non linear function is the hidden layer.
