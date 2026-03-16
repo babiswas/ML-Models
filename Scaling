@@ -13,3 +13,9 @@ if required
 
 if the numerical column lies between max and min values use min max scaler.
 
+Normalisation
+=============
+1.min-max scaler
+2.mean normalisation
+3.Max-Abs
+
