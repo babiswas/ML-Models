@@ -31,8 +31,6 @@ Triplet loss
 1.Error calculated for a single training data is called loss function
 2.Error calculated for an entire dataset is called loss function.
 
-
-
-
+There is a single minima in mean square error for which the loss is minimum.
 
 
