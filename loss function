@@ -1,1 +1,3 @@
 
+loss function is calculated for one of the vector in the input dataset.
+The summation of all the loss function in the data set is called cost function
