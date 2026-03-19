@@ -13,6 +13,19 @@ Loss function in object detection
 ==================================
 1.Focal loss
 
+Classification Algorithm
+=========================
+1.Binary cross entropy
+2.Hinge Loss
+3.Categorical cross entropy
+4.Sparse categorical cross entropy
+
+Auto Encoders
+=============
+1.KL divergence
+
+
+
 
 
 
