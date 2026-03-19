@@ -43,6 +43,11 @@ MAE Fine points
 ===========
 1.MAE is robust to outliers
 
+Huber loss
+===========
+When there is outlier huber loss behaves as MAE.If there is no outlier it behaves as MSE.
+
+
 
 
 
