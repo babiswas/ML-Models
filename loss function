@@ -38,3 +38,24 @@ Mean squared is not robust to outliers
 Activation function of the output layer should be linear.
 
 
+
+MAE Fine points
+===========
+1.MAE is robust to outliers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
