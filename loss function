@@ -9,4 +9,10 @@ For linear models we calculate
 2.MAE
 3.Huber loss
 
+Loss function in object detection
+==================================
+1.Focal loss
+
+
+
 
